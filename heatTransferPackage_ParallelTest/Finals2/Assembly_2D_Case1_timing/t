@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+julia=/home/aghnia/julia-1.1.0/bin/julia
+$julia t.jl 

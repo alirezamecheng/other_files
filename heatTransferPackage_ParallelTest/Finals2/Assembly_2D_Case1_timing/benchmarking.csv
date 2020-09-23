@@ -1,0 +1,2 @@
+threadNumber,tstar,tau,LBM_evals,FDM_evals,LBMTime_median,LBMBenchParallel_median,LBMTime_mean,LBMBenchParallel_mean
+10,0.2,2,1,1,1.1222840241e10,2.9062727626e10,1.1222840241e10,2.9062727626e10

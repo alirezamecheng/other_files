@@ -1,0 +1,5 @@
+#!/bin/sh
+julia=/home/aghnia/julia-1.1.0/bin/julia
+export JULIA_NUM_THREADS=$1
+$julia -e '@info("number of threads = ",Threads.nthreads())'
+$julia runner.jl
